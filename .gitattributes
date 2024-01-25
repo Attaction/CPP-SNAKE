@@ -1,3 +1,0 @@
-./ linguist-language=CPP
-*.dll linguist-detectable=false
-*.ttf linguist-detectable=false
