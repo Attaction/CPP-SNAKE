@@ -1,1 +1,3 @@
 path/to/file.py linguist-language=CPP
+*.dll linguist-detectable=false
+*.ttf linguist-detectable=false
